@@ -1,10 +1,10 @@
 @font-face {
-    font-family: 'Playfair Display';
-    src: url('PlayfairDisplay-Regular.eot');
-    src: url('PlayfairDisplay-Regular.eot?#iefix') format('embedded-opentype'),
-        url('PlayfairDisplay-Regular.woff2') format('woff2'),
-        url('PlayfairDisplay-Regular.woff') format('woff'),
-        url('PlayfairDisplay-Regular.ttf') format('truetype');
+    font-family: 'Epilogue';
+    src: url('Epilogue-Regular.eot');
+    src: url('Epilogue-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Epilogue-Regular.woff2') format('woff2'),
+        url('Epilogue-Regular.woff') format('woff'),
+        url('Epilogue-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
