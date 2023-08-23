@@ -32,6 +32,7 @@
 .body-style{
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     /* background-color: black; */
 }
 .li-style{
@@ -194,4 +195,62 @@ margin-left: 5px;
     width:587px;
     height: 480px;
     
+}
+
+.container-2{
+    width: 1235px;
+    height: 700px;
+    position: absolute;
+    top: 1100px;
+    left:133px;
+    padding: 30px;
+}
+.install{
+    font-family: 'Epilogue';
+    font-size: 15px;
+}
+.title-install{
+    font-family: 'Playfair Display';
+    font-size: 35px;
+    font-style:italic;
+    color: rgba(106, 153, 78, 1);
+}
+.card{
+    width: 560px;
+    height: 580px;
+    border-radius: 20px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+
+}
+.img-install{
+    display: flex;
+    justify-content: space-around;
+}
+.window{
+    width: 560px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top:500px
+}
+.img-p1{
+    font-family: 'Playfair Display';
+    font-style: italic;
+    font-size: 30px;
+    color: #fff;
+}
+.indoor{
+    width: 560px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top:500px
+}
+.img-p2{
+    font-family: 'Playfair Display';
+    font-style: italic;
+    font-size: 30px;
+    color: #fff;
 }
