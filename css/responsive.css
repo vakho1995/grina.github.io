@@ -1,0 +1,101 @@
+/* header */
+@media(max-width:1000px){
+    .header-position{
+        width: 445.53px;
+        height: 24.84px;
+    }
+    .header-img{
+        width: 24.84px;
+        margin-left: 3px;
+    }
+    .header-name{
+        font-size: 14.61px;
+    }
+    .li-style{
+        font-size: 6.41px;
+        margin-right: 20px;
+    }
+    .ul-style{
+        margin-left: 125px;
+    }
+    .header-button{
+        width: 70.03px;
+        height: 18.22px;
+        left:370px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+    .button-a{
+        font-size: 7.21px;
+    }
+}
+/* and header */
+@media(max-width:1000px){
+    .container-1{
+        width:min-content;
+        margin: 55px auto;
+    }
+    .left-content{
+        width:max-content;
+        height:max-content;
+    }
+    .title-1{
+        width: 216.38px;
+        height: 0;
+    }
+    .title-content{
+        font-size: 19.23px;
+        line-height: 20px;
+    }
+    .paragraf-1{
+        width: 182.32px;
+        height: 0;
+        margin-top: 55px;
+    }
+    .paragraf-content{
+        font-size: 7.21px;
+        line-height: 10px;
+    }
+    .reserve{
+        width: 78.05px;
+        height: 23.83px;
+        margin-top: 15px;
+    }
+    .bg-image{
+        width: 315px;
+        height: 224.23px;
+        left: -11px;
+        top: -40px;
+    }
+    .right-content{
+        width: 305.97px;
+        height: 224.23px;
+        border-radius:6.41px
+    }
+    .inside{
+        height: 222px;
+        width: 315px;
+        top: 2px;
+        left: 2px;
+    }
+}
+@media(max-width:1000px){
+    .box{
+        width: 444.77px;
+        height: 212.37px;
+        top: 190px;
+        left: 130px
+    }
+    .features{
+        font-size: 7.21px;
+    }
+    .paragraf-features{
+        font-size: 14.42px;
+    }
+    .image{
+        width: 196.34px;
+        height: 127.42px;
+    }
+}
