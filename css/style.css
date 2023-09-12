@@ -72,10 +72,10 @@
 }
 .header-name{
     font-size: 25px;
-font-family: 'Playfair Display';
-font-style: italic;
-color: #000000;
-margin-left: 5px;
+    font-family: 'Playfair Display';
+    font-style: italic;
+    color: #000000;
+    margin-left: 5px;
 }
 .header-img{
     width: 40px;
